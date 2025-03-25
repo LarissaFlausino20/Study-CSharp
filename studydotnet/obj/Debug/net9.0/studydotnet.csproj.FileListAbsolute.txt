@@ -1,0 +1,15 @@
+C:\Users\laris\Aula05\studydotnet\studydotnet\bin\Debug\net9.0\studydotnet.exe
+C:\Users\laris\Aula05\studydotnet\studydotnet\bin\Debug\net9.0\studydotnet.deps.json
+C:\Users\laris\Aula05\studydotnet\studydotnet\bin\Debug\net9.0\studydotnet.runtimeconfig.json
+C:\Users\laris\Aula05\studydotnet\studydotnet\bin\Debug\net9.0\studydotnet.dll
+C:\Users\laris\Aula05\studydotnet\studydotnet\bin\Debug\net9.0\studydotnet.pdb
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.AssemblyInfoInputs.cache
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.AssemblyInfo.cs
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.csproj.CoreCompileInputs.cache
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.sourcelink.json
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.dll
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\refint\studydotnet.dll
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.pdb
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\studydotnet.genruntimeconfig.cache
+C:\Users\laris\Aula05\studydotnet\studydotnet\obj\Debug\net9.0\ref\studydotnet.dll
